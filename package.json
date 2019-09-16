@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://codesandbox.io/s/new",
+  "homepage": "https://abiyevseymur.github.io/animated-cards/",
   "main": "src/index.js",
   "dependencies": {
     "@csstools/normalize.css": "^10.1.0",
+    "gh-pages": "^2.1.1",
     "lodash-es": "4.17.11",
     "react": "16.8.6",
     "react-dom": "16.8.6",
@@ -14,13 +15,14 @@
     "react-spring": "9.0.0-beta.3",
     "react-use-gesture": "5.0.0"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
