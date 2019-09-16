@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/animated-cards/static/css/main.fa59d73b.chunk.css",
+    "main.js": "/animated-cards/static/js/main.e9621a5f.chunk.js",
+    "main.js.map": "/animated-cards/static/js/main.e9621a5f.chunk.js.map",
+    "runtime~main.js": "/animated-cards/static/js/runtime~main.0e5133d1.js",
+    "runtime~main.js.map": "/animated-cards/static/js/runtime~main.0e5133d1.js.map",
+    "static/js/2.ec39e42d.chunk.js": "/animated-cards/static/js/2.ec39e42d.chunk.js",
+    "static/js/2.ec39e42d.chunk.js.map": "/animated-cards/static/js/2.ec39e42d.chunk.js.map",
+    "index.html": "/animated-cards/index.html",
+    "precache-manifest.d43e68e6971263a05963fb726045c6f2.js": "/animated-cards/precache-manifest.d43e68e6971263a05963fb726045c6f2.js",
+    "service-worker.js": "/animated-cards/service-worker.js",
+    "static/css/main.fa59d73b.chunk.css.map": "/animated-cards/static/css/main.fa59d73b.chunk.css.map"
+  }
+}
